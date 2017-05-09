@@ -3,6 +3,8 @@
 
 # (C) Nicolas Rost, 2017
 
+# let's add a comment here to check this commit thing
+
 # set working directory in Open Science Course folder
 setwd("C:\\Users\\Nico\\Documents\\Studium\\M. Sc. SCAN Berlin\\4. Semester\\Digital Open Science")
 
